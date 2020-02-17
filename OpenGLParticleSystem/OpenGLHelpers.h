@@ -1,5 +1,5 @@
 #pragma once
-#include "stb_image.h"
+#include "stb_image.hpp"
 #include <glad/glad.h>
 #include <GLFW/glfw3.h>
 
