@@ -14,7 +14,7 @@ the end result looks something like that:
 ![](particles.gif)
 
 ### Prerequisites
-You need 3 dependancies to get openGL to get the project to work.
+You need 3 dependencies to get the project to work.
 
 --GLAD--
 Commandline:
