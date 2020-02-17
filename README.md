@@ -1,6 +1,6 @@
 # Simple particle system simulation in C++ using openGL
 
-A simulation of a particle system in openGL that uses 3 different ways of sending particle data down the pipeline and meassures FPS for each one.
+A simulation of a particle system in openGL that uses 3 different ways of sending particle data down the pipeline and measures  FPS for each one.
 
 It also enables you to move around using W,A,S,D,R,F keys and right mouse button to look around.
 
