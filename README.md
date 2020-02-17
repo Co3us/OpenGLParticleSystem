@@ -17,16 +17,19 @@ the end result looks something like that:
 You need 3 dependencies to get the project to work.
 
 --GLAD--
+
 Commandline:
 	--profile="core" --api="gl=4.4" --generator="c" --spec="gl" --extensions=""
 Online:
 	http://glad.dav1d.de/#profile=core&language=c&specification=gl&loader=on&api=gl%3D4.4
 
 --GLM--
+
 version is 0.9.8.5
 https://github.com/g-truc/glm/releases/tag/0.9.8.5
 
 --GLFW--
+
 version 3.2.1
 https://github.com/glfw/glfw/releases/tag/3.2.1
 
