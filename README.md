@@ -11,7 +11,7 @@ Command line program that takes 3 parameters:
 
 the end result looks something like that:
 
-![](demo.gif)
+![](particles.gif)
 
 ### Prerequisites
 You need 3 dependancies to get openGL to get the project to work.
